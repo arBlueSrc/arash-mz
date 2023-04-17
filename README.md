@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arash-mz
+- 👋 Hi, I’m blue source
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning android
-- 📫 my email : arashmirzaie.1997@gmail.com
+- 🌱 I’m currently senior android developer
+
 
 <!---
 arash-mz/arash-mz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
